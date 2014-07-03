@@ -1,0 +1,7 @@
+contraseña:gisela1
+
+EN LA CONSOLA
+git config --global user.name
+git config --global user.email
+git config --list
+git clone (enter)
